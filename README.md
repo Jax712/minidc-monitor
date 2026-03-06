@@ -1,5 +1,8 @@
 # MiniDC Monitor
 
+<img width="1858" height="964" alt="Screenshot from 2026-03-06 16-22-16" src="https://github.com/user-attachments/assets/846e15b3-7d3e-4cec-a1b5-5ce4ec1b8a3e" />
+
+
 A full stack hardware monitoring solution built on a personal Linux machine, using Prometheus and node_exporter to collect system metrics and Grafana for real time visualization. Inspired by data center observability practices used in production cloud infrastructure.
 
 ## Stack
